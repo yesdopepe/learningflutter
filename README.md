@@ -1,3 +1,5 @@
 # learningflutter
 I will try to upload my daily progress of flutter here
-# day 1
+<br>
+# day 1:
+on day 1 I have learned the very basics, outputting, data types and variables
