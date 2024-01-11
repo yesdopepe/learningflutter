@@ -7,3 +7,5 @@ on day 1 I have learned the very basics, outputting, data types and variables
 on day 2 I have learned about arrays, maps and how to manipulate them.
 # day 3:
 I have learned about looping, functions, if else logic and user input.
+# day 4:
+I have learned about asyncronous programming, oop and error handling concepts
